@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
  class Guessnum {
-    static int hiddenNumber = 14;
+    static int hiddenNumber = 89;
     static int userInput;
     static Scanner sc = new Scanner(System.in);
 
