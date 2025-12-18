@@ -12,10 +12,10 @@ import java.util.Scanner;
     void calculateBonus() {
         double bonus;
 
-        if (basicSalary > 30000) {
-            bonus = basicSalary * 0.10;
+        if (basicSalary > 150000) {
+            bonus = basicSalary * 10;
         } else {
-            bonus = basicSalary * 0.05;
+            bonus = basicSalary * 05;
         }
 
         System.out.println("Employee Name: " + name);
