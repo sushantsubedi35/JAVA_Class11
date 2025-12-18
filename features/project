@@ -1,0 +1,23 @@
+features of  Online Food Ordering System :
+
+
+Add food items to menu.
+Display menu.
+Search food by name.
+Place an order.
+Add multiple items to cart.
+Remove item from cart.
+Show total bill.
+Apply discount code.
+Track order status (ordered, preparing, delivered).
+Cancel order.
+Show order history.
+Display top-selling items.
+Sort menu by price.
+Sort menu by popularity.
+Manage restaurant list.
+Select restaurant before ordering.
+Estimate delivery time.
+Generate invoice.
+Rate food after delivery.
+Exit with daily sales summary.
